@@ -46,4 +46,7 @@ This project was created using free resources to support the development of acce
 
 ---
 
+## 👀 **Demo**
+To see the demo click on the following link: https://youtu.be/ukAja7tWLG0
+
 🎉 Thank you for your interest in Labyrinth Dungeon VR! 🕹️
